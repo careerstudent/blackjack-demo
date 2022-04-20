@@ -1,0 +1,36 @@
+body {
+    background-image: url('felt.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 300%;
+    
+}
+
+h1 {
+     color: goldenrod;
+     font-size: 300%;
+ }
+
+ #message-el {
+    font-style: italic;
+ }
+
+button {
+    color: #016f32;
+    height: 45px;
+    width: 150px;
+    background: goldenrod ;
+    font-size: 40%;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 3px;
+ }
+
+ .new-card-btn {
+     margin-bottom: 50px;
+ }
